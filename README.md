@@ -7,8 +7,7 @@ Welcome to the Motor Shop Store! This application allows users to browse, search
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact](#contact)
+5. [Contact](#contact)
 
 ## Features
 - Search Products: Easily search for products by name, category, or other criteria.
@@ -98,9 +97,6 @@ We welcome contributions from the community! To contribute, follow these steps:
 
 6. Create a pull request:
     - Open a pull request from your forked repository to the main repository.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact
 For any questions or feedback, please contact us at:
