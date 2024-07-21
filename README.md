@@ -100,7 +100,7 @@ We welcome contributions from the community! To contribute, follow these steps:
 
 ## Contact
 For any questions or feedback, please contact us at:
-- Email: KEKOMARZmotorshop@gmail.com
+- Email: justinemoreno14@gmail.com
 
 Thank you for using the Motor Shop Store!
 
