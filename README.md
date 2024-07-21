@@ -54,6 +54,8 @@ The application will be available at https://justinepaulmoreno.github.io/
 
 ![c5b98d24-6b57-4d01-85c4-c42db612ca97](https://github.com/user-attachments/assets/3c238336-20fb-4508-8013-6bdc1ba3b12e)
 
+![79eb24b2-ea25-442a-a7c7-cc9905431098](https://github.com/user-attachments/assets/1eaa60d6-6038-4454-ba35-c0093bb16410)
+
 ## Usage
 1. Register/Login:
    - Create a new account or log in to an existing account.
