@@ -56,8 +56,8 @@ The application will be available at https://justinepaulmoreno.github.io/
 ![79eb24b2-ea25-442a-a7c7-cc9905431098](https://github.com/user-attachments/assets/1eaa60d6-6038-4454-ba35-c0093bb16410)
 
 ## Usage
-1. Register/Login:
-   - Create a new account or log in to an existing account.
+1. Login:
+   - Log in to an existing account.
 
 2. Search Products:
    - Use the search bar to find products by name, category, or other criteria.
