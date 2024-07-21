@@ -1,16 +1,98 @@
-# moreno
+# KEKOMARZ
 
-A new Flutter project.
+Welcome to the Motor Shop Store! This application allows users to browse, search, and purchase various motor-related products.
 
-## Getting Started
+## Table of Contents
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact](#contact)
 
-This project is a starting point for a Flutter application.
+## Features
+- Search Products: Easily search for products by name, category, or other criteria.
+- Product Details: View detailed information about each product, including price, specifications, and availability.
+- Favorites: Add products to your favorites and manage quantities.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+To install and run this application locally, follow these steps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
+    
+    git clone https://github.com/JonnaFe0317/KEKOMARZ-motor-shop.git
+    cd motor-shop-store
+    
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Install dependencies:
+    
+    npm install
+    
+
+3. Set up environment variables:
+    Create a .env file in the root directory and add the following variables:
+    
+env
+    DB_CONNECTION_STRING=your_database_connection_string
+    API_KEY=your_api_key
+    SECRET_KEY=your_secret_key
+    
+
+4. Run the application:
+    
+    npm start
+    
+
+The application will be available at 
+
+## Usage
+1. Register/Login:
+   - Create a new account or log in to an existing account.
+
+2. Search Products:
+   - Use the search bar to find products by name, category, or other criteria.
+
+3. View Product Details:
+   - Click on a product to view its details, including price, specifications, and availability.
+
+4. Add to Favorites:
+   - Add desired products to your Favorites and adjust quantities as needed.
+
+
+## Contributing
+We welcome contributions from the community! To contribute, follow these steps:
+
+1. Fork the repository:
+    - Click the "Fork" button at the top of this page.
+
+2. Clone your forked repository:
+    
+    git clone https://github.com/JustinePaulMoreno/KEKOMARZ-motor-shop.git
+    
+
+3. Create a new branch:
+    
+    git checkout -b feature/your-feature-name
+    
+
+4. Make your changes and commit them:
+    
+    git commit -m "Add your commit message here"
+    
+
+5. Push to your forked repository:
+    
+    git push origin feature/your-feature-name
+    
+
+6. Create a pull request:
+    - Open a pull request from your forked repository to the main repository.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Contact
+For any questions or feedback, please contact us at:
+- Email: KEKOMARZmotorshop@gmail.com
+
+Thank you for using the Motor Shop Store!
