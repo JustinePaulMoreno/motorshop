@@ -46,7 +46,7 @@ env
 The application will be available at https://justinepaulmoreno.github.io/
 
 ## Screenshots
-
+![f9743d46-0200-4cf7-a4fc-8dc2c6611479](https://github.com/user-attachments/assets/c316bd8a-20b3-41ee-a9ca-4ed1c530bb56)
 
 ## Usage
 1. Register/Login:
